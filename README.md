@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I'm Jan
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Web Development at DCI
+- 😄 Pronouns: he/him
