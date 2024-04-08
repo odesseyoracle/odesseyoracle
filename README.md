@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I'm Jan
-- 🔭 I’m currently working on my WebDev skills
 - 🌱 I’m currently learning Web Development at DCI
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on a simple project for my Backend module
+
