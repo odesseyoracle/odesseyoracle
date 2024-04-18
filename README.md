@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I'm Jan
 - 🌱 I’m currently learning Web Development at DCI
-- 🔭 I’m currently working on a simple project for my Backend module
+- 🔭 I’m currently working on my final project
 
